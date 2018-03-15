@@ -22,6 +22,14 @@ Use dplyr and ggplot2 to visualize ozone concentrations in different provinces o
 Using data from fivethirtyeight, visualize the political donations of scientists in the US based upon political party.
 ![](https://github.com/JohnMBrandt/data-visualization/blob/master/Static%20Visualizations/images/sample1.png?raw=true)
 
+### employment
+
+![](https://github.com/JohnMBrandt/data-visualization/blob/master/Static%20Visualizations/images/employment.png?raw=true)
+
+### temperature
+
+![](https://github.com/JohnMBrandt/data-visualization/blob/master/Static%20Visualizations/images/temperature.png?raw=true)
+
 ### ggplot_visualization 
 
 Rmarkdown outlining the process of creating a publication-ready visualization.
